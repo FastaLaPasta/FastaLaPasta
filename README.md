@@ -4,7 +4,7 @@
 </div>
 
 <h2>About me</h2>
-Hi, i'm Sasha Boulgone, a 🇫🇷 computer student. Full-Stack dev autodidacte, Stocks and algo fanatic.
+Hi, i'm Sasha Boulgone, a 🇫🇷 computer student. Full-Stack dev self-taught Stocks and algo fanatic.
 Passionate about, web, AI and obviously algos.🤔
 
 <br>I'm also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source. Like this page who has been created thanks to
