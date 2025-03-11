@@ -1,22 +1,38 @@
-# What's up ! 👋
-<div align="center">
-  <img align="right" width="35%" src="https://user-images.githubusercontent.com/105077278/219344905-6453b3ff-0554-4e2d-8ef9-5fab2de3058d.png" alt="cover" />
-</div>
+# Hey there, I'm Sasha Boulgone! 👋
 
-<h2>About me</h2>
-Hi, i'm Sasha Boulgone, a 🇫🇷 computer student. Full-Stack dev self-taught Stocks and algo fanatic.
-Passionate about, web, AI and obviously algos.🤔
+I'm a French computer science student, self-taught full-stack developer, and open-source enthusiast who loves mixing humor with code. When I'm not coding, you might find me following the stock market 📈, playing video games 🎮, or getting active in sports ⚽.
 
-<br>I'm also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source. Like this page who has been created thanks to
+---
 
-<br><a href="https://sayfe.notion.site/sayfe/Comment-personnaliser-et-optimiser-sa-page-de-profil-sur-GitHub-b6673df4240d4927bbaddec93e5bae46"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" />Comment personnaliser et optimiser sa page de profil sur GitHub</b></a><br/><i>Build a Blockchain-powered chat from your browser!.
+## 🔧 Languages & Tools
 
+- **Programming:** Python, C, C++  
+- **Databases:** PostgreSQL  
+- **Web Development:** JavaScript, Django, Next.js
 
+---
 
-<br><br><h3>My latest posts</h3>
-<ul>
-  <li><a <b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Comming soon !!!</b></a><br/><i>Articles, Blogs... Lot of Stuff.</i></li>
+## 💡 What I'm Up To
 
-<br><h3>Where to find me</h3>
-<p><a href="https://github.com/FastaLaPasta" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/aquafizz2" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/sasha-boulogne-3b3314190/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</p>
+I'm constantly exploring new technologies and working on projects that blend my love for tech, finance, and creativity. Whether it's an AI project, a cool web app, or just tinkering with code, I'm always up for a challenge!
+
+---
+
+## ⚡ Fun Facts
+
+- I'm a finance and stock market enthusiast – I love keeping an eye on trends and making sense of the numbers.  
+- Video games and sports are my go-to for a good time and inspiration.  
+- I believe that a bit of humor makes even the toughest debugging session more fun 😄.
+
+---
+
+## 🔗 Let's Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/FastaLaPasta)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sasha-boulogne-3b3314190/)
+
+Feel free to drop me a message if you want to chat about tech, stocks, sports, or your favorite video games!
+
+---
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
