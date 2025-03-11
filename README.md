@@ -9,6 +9,7 @@ I'm a French computer science student who had **no coding experience before 42 s
 - **Languages:** Python, C, C++
 - **Web:** JavaScript, Django, Next.js
 - **Databases:** PostgreSQL
+- **DevOps & Tools:** Docker, Virtual Machines (VMs)
 
 ---
 
