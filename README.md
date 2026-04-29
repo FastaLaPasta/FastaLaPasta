@@ -4,17 +4,6 @@
   <p>I'm a French computer science student who had <b>no coding experience before 42 school</b>. Now, I'm diving into the world of code and currently learning <b>web security</b> 🛡️.</p>
 </div>
 
----
-
-<div align="center">
-  
-  ## 🔧 Skills & Tools
-  
-**Languages:** Python, C, C++  
-**Web:** JavaScript, Django, Next.js  
-**Databases:** PostgreSQL  
-**DevOps & Tools:** Docker, Virtual Machines (VMs)  
-
   ---
 
   ## 🚀 Interests
